@@ -1,0 +1,9 @@
+main: us.mcfriendly.tags.Main
+name: MCF-Tags
+version: 1.0
+api-version: 1.16
+depend: [PlaceholderAPI]
+author: GoSwimmy
+commands:
+  tags:
+    aliases: [mcftags]
